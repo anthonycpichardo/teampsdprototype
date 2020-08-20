@@ -1,7 +1,7 @@
 on:
   push:
      branches:
-       - 'teampsdprototype/gh-pages'
+       - 'origin/gh-pages'
 
   
 
